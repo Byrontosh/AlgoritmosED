@@ -8,5 +8,7 @@ Prueba de Git y GitHub
 
 :notes:
 
+Importante: ejercicio realizado en PSEINT
+
 
 
