@@ -1,13 +1,10 @@
 # AlgoritmosED
 
-Prueba de Git y GitHub
+Prueba de Git y GitHub 
 
-# El encabezado más largo
-## El segundo encabezado más largo
-###### El encabezado más pequeño
+# Creación de ramas
 
-
-***Todo este texto es importante***
+***Ejercicio de un Login***
 
 :notes:
 
