@@ -14,6 +14,10 @@ layout: default
 
 <ul>
   <li><a href="https://github.com/Byrontosh/PrograCD/tree/burbuja" target="_blank">Burbuja</a></li>
+  <li><a href="https://github.com/Byrontosh/PrograCD/tree/burbuja" target="_blank">Inserción</a></li>
+  <li><a href="https://github.com/Byrontosh/PrograCD/tree/burbuja" target="_blank">Selección</a></li>
+  <li><a href="https://github.com/Byrontosh/PrograCD/tree/burbuja" target="_blank">MergeSort</a></li>
+  <li><a href="https://github.com/Byrontosh/PrograCD/tree/burbuja" target="_blank">Quicksort</a></li>
 </ul>
 
 
@@ -30,6 +34,7 @@ layout: default
 
 <ol>
 
-  <li><a href="https://github.com/Byrontosh/PrograCD/tree/lineal">Burbuja</a></li>
+  <li><a href="https://github.com/Byrontosh/PrograCD/tree/lineal">Lineal</a></li>
+  <li><a href="https://github.com/Byrontosh/PrograCD/tree/lineal">Binaria</a></li>
   
 </ol>
