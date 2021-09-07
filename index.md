@@ -8,7 +8,7 @@ layout: default
 
 
 <div align="center">
-<img src="https://ugc.kn3.net/i/760x/http://poiritem.files.wordpress.com/2009/12/agentes-basados-en-busqueda.png" width="300" height="300">
+<img src="https://ugc.kn3.net/i/760x/http://poiritem.files.wordpress.com/2009/12/agentes-basados-en-busqueda.png" width="800" height="800">
 </div>
 
 
